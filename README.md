@@ -1,2 +1,2 @@
 # doom-with-hand
-his does need a camera, but have fun with it!
+this does need a camera, but have fun with it!
